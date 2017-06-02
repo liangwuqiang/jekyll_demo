@@ -1,2 +1,4 @@
-baseurl:/jekyll_demo
-
+defaults:
+  -
+    values:
+      layout: "post"
